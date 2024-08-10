@@ -28,7 +28,10 @@ Clone the Repository:
 
 # bash
 Copy code
-git clone https://github.com/your-username/arduino-bike-rear-light.git
+git clone https://github.com/Oussemmaa/Arduino-Rear-Light-for-Bike-LED-Effects-Project/blob/63aa5f5afed5445f053826cae2680dec66c2e6a2/Arduino%20Rear%20Light%20(for%20Bike)%20LED%20Effects%20Project.ino
+
+# Youtube video
+https://youtu.be/dQVq9t7F-d8
 
 # Open the Project:
 Open the Arduino Rear Light (for Bike) LED Effects Project.ino file in Arduino IDE.
